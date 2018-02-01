@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa39a68a-2517-43d3-91a6-1d964ecebe1f" name="singapore" url="http://10.4.1.54">
+        <fileTransfer host="10.4.1.54" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9a1b51da-2f4a-40c4-9613-c1a65d451081" name="paris" url="http://10.4.1.52">
+        <fileTransfer host="10.4.1.52" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="002b5575-66d7-4a3d-97d4-4aad268c6433" name="london" url="http://10.4.1.53">
+        <fileTransfer host="10.4.1.53" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d25e14bf-018c-4e87-bb75-63540fd34d90" name="tunis" url="http://10.4.1.51">
+        <fileTransfer host="10.4.1.51" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
